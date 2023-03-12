@@ -507,6 +507,13 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+.portfolio-image{
+  width: 500px;
+  height: 350px;
+  /* cover imgae */
+  object-fit: cover;
+  
+}
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 
